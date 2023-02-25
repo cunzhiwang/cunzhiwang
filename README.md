@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cunzhiwang
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Kotlin and java
+- 🌱 I’m currently learning Kotlin and Go
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 2539029477@qq.com
 
 <!---
 cunzhiwang/cunzhiwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
